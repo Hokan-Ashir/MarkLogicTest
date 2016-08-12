@@ -1,6 +1,8 @@
 package ru.hokan;
 
-import com.marklogic.xcc.*;
+import com.marklogic.xcc.ContentSource;
+import com.marklogic.xcc.ContentSourceFactory;
+import com.marklogic.xcc.Session;
 import com.marklogic.xcc.exceptions.RequestException;
 import com.marklogic.xcc.exceptions.XccConfigException;
 import org.apache.log4j.Logger;
@@ -23,9 +25,11 @@ public enum  MarkLogicService {
     private static final String MARK_LOGIC_XDBC_SERVER = "xcc://" + USER_NAME + ":" + PASSWORD + "@" + HOST_IP + ":" + PORT + "/" + DATABASE_NAME;
 
     private final InsertContentModule insertContentModule;
+    private final DeleteContentModule deleteContentModule;
 
     MarkLogicService() {
         insertContentModule = new InsertContentModule();
+        deleteContentModule = new DeleteContentModule();
     }
 
     private Session createSession() {
@@ -47,22 +51,36 @@ public enum  MarkLogicService {
         return contentSource.newSession();
     }
 
-    public void insertResourceFile(String fileName) {
+    public String insertResourceFile(String fileName) {
         URL resource = getClass().getClassLoader().getResource(fileName);
         File file;
         try {
             file = new File(resource.toURI());
         } catch (URISyntaxException e) {
             LOGGER.error(e.getMessage(), e);
-            return;
+            return null;
         }
 
+        String insertedFileURI = null;
         try (Session session = createSession()) {
             assert session != null;
 
             insertContentModule.setSession(session);
             try {
-                insertContentModule.load(new File[]{file});
+                insertedFileURI = insertContentModule.insertFile(file);
+            } catch (RequestException e) {
+                LOGGER.error(e.getMessage(), e);
+            }
+        }
+
+        return insertedFileURI;
+    }
+
+    public void deleteDocument(String documentURI) {
+        try (Session session = createSession()) {
+            deleteContentModule.setSession(session);
+            try {
+                deleteContentModule.deleteDocument(documentURI);
             } catch (RequestException e) {
                 LOGGER.error(e.getMessage(), e);
             }
