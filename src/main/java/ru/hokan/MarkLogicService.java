@@ -6,15 +6,14 @@ import com.marklogic.xcc.Session;
 import com.marklogic.xcc.exceptions.RequestException;
 import com.marklogic.xcc.exceptions.XccConfigException;
 import org.apache.log4j.Logger;
-import ru.hokan.modules.DeleteContentModule;
-import ru.hokan.modules.InsertContentModule;
-import ru.hokan.modules.ReadContentModule;
-import ru.hokan.modules.UpdateContentModule;
+import ru.hokan.modules.*;
 
 import java.io.File;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
+import java.util.Collections;
+import java.util.List;
 
 public enum  MarkLogicService {
     INSTANCE;
@@ -32,12 +31,14 @@ public enum  MarkLogicService {
     private final DeleteContentModule deleteContentModule;
     private final UpdateContentModule updateContentModule;
     private final ReadContentModule readContentModule;
+    private final SearchContentModule searchContentModule;
 
     MarkLogicService() {
         insertContentModule = new InsertContentModule();
         deleteContentModule = new DeleteContentModule();
         updateContentModule = new UpdateContentModule();
         readContentModule = new ReadContentModule();
+        searchContentModule = new SearchContentModule();
     }
 
     private Session createSession() {
@@ -129,5 +130,33 @@ public enum  MarkLogicService {
         }
 
         return documentContent;
+    }
+
+    public List<String> getDocumentURIsContainingValue(String value) {
+        List<String> documentURIsContainingValue = Collections.emptyList();
+        try (Session session = createSession()) {
+            searchContentModule.setSession(session);
+            try {
+                documentURIsContainingValue = searchContentModule.getDocumentURIsContainingValue(value);
+            } catch (RequestException e) {
+                LOGGER.error(e.getMessage(), e);
+            }
+        }
+
+        return documentURIsContainingValue;
+    }
+
+    public List<String> getDocumentsContentContainingValue(String value) {
+        List<String> documentsContainingValue = Collections.emptyList();
+        try (Session session = createSession()) {
+            searchContentModule.setSession(session);
+            try {
+                documentsContainingValue = searchContentModule.getDocumentsContainingValue(value);
+            } catch (RequestException e) {
+                LOGGER.error(e.getMessage(), e);
+            }
+        }
+
+        return documentsContainingValue;
     }
 }

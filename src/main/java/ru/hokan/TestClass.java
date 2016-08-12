@@ -2,6 +2,8 @@ package ru.hokan;
 
 import org.apache.log4j.Logger;
 
+import java.util.List;
+
 public class TestClass {
 
     private static final Logger LOGGER = Logger.getLogger(TestClass.class);
@@ -13,6 +15,8 @@ public class TestClass {
         testUpdatingDocumentContent();
         testUpdatingDocumentNodeValue();
         testGettingDocumentContent();
+        testGettingAllDocumentURIsContainingValue();
+        testGettingAllDocumentsContainingValue();
     }
 
     private void testDocumentDeletion() {
@@ -40,5 +44,21 @@ public class TestClass {
         String anotherJohnDoeURI = MarkLogicService.INSTANCE.insertResourceFile(JOHN_DOE_XML_FILENAME);
         String johnDoeFileContent = MarkLogicService.INSTANCE.getDocumentContent(anotherJohnDoeURI);
         LOGGER.info(johnDoeFileContent);
+    }
+
+    private void testGettingAllDocumentURIsContainingValue() {
+        String valueToSearch = "Some Mother";
+        List<String> documentURIsContainingValue = MarkLogicService.INSTANCE.getDocumentURIsContainingValue(valueToSearch);
+        for (String s : documentURIsContainingValue) {
+            LOGGER.info(s);
+        }
+    }
+
+    private void testGettingAllDocumentsContainingValue() {
+        String valueToSearch = "Some Mother";
+        List<String> documentsContentContainingValue = MarkLogicService.INSTANCE.getDocumentsContentContainingValue(valueToSearch);
+        for (String s : documentsContentContainingValue) {
+            LOGGER.info(s);
+        }
     }
 }

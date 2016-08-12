@@ -1,42 +1,4526 @@
-2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Trying to insert:
-File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: d2654939-a323-4ff6-b4ef-5dcd1ff465bd.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:54 - Trying to insert:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: 3a1fab78-3d28-40c3-9f38-92ed25b01a59.xml
 
-2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Inserted:
-File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: d2654939-a323-4ff6-b4ef-5dcd1ff465bd.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:54 - Inserted:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: 3a1fab78-3d28-40c3-9f38-92ed25b01a59.xml
 
-2016-08-12 15:19:07 INFO  AbstractContentModule:10 - Trying to delete document with URI: d2654939-a323-4ff6-b4ef-5dcd1ff465bd.xml
-2016-08-12 15:19:07 INFO  AbstractContentModule:15 - Deleted document with URI: d2654939-a323-4ff6-b4ef-5dcd1ff465bd.xml
-2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Trying to insert:
-File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 5da1b84f-1693-4b45-8987-d03262f84b76.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:8 - Trying to delete document with URI: 3a1fab78-3d28-40c3-9f38-92ed25b01a59.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:13 - Deleted document with URI: 3a1fab78-3d28-40c3-9f38-92ed25b01a59.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:54 - Trying to insert:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 79418180-cad8-4b51-8b2f-e6fd36317bc2.xml
 
-2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Inserted:
-File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 5da1b84f-1693-4b45-8987-d03262f84b76.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:54 - Inserted:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 79418180-cad8-4b51-8b2f-e6fd36317bc2.xml
 
-2016-08-12 15:19:07 INFO  AbstractContentModule:10 - Trying to update document with URI: 5da1b84f-1693-4b45-8987-d03262f84b76.xml with:
+2016-08-12 17:07:43 INFO  AbstractContentModule:8 - Trying to update document with URI: 79418180-cad8-4b51-8b2f-e6fd36317bc2.xml with:
 <Human>
     <Name>Jane</Name>
 </Human>
-2016-08-12 15:19:07 INFO  AbstractContentModule:15 - Updated document with URI: 5da1b84f-1693-4b45-8987-d03262f84b76.xml with
+2016-08-12 17:07:43 INFO  AbstractContentModule:13 - Updated document with URI: 79418180-cad8-4b51-8b2f-e6fd36317bc2.xml with
 <Human>
     <Name>Jane</Name>
 </Human>
-2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Trying to insert:
-File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:54 - Trying to insert:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 9194fefa-b4e6-4a49-bc70-5a33b6be3057.xml
 
-2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Inserted:
-File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:54 - Inserted:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 9194fefa-b4e6-4a49-bc70-5a33b6be3057.xml
 
-2016-08-12 15:19:07 INFO  AbstractContentModule:19 - Trying to update document with URI: 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml with: UnHuman for node Active
-2016-08-12 15:19:07 INFO  AbstractContentModule:24 - Updated document with URI: 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml with: UnHuman for node Active
-2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Trying to insert:
-File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:17 - Trying to update document with URI: 9194fefa-b4e6-4a49-bc70-5a33b6be3057.xml with: UnHuman for node Active
+2016-08-12 17:07:43 INFO  AbstractContentModule:22 - Updated document with URI: 9194fefa-b4e6-4a49-bc70-5a33b6be3057.xml with: UnHuman for node Active
+2016-08-12 17:07:43 INFO  AbstractContentModule:54 - Trying to insert:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: 4b0f7d15-4daa-4d2c-a9de-cb6af742027e.xml
 
-2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Inserted:
-File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:54 - Inserted:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: 4b0f7d15-4daa-4d2c-a9de-cb6af742027e.xml
 
-2016-08-12 15:19:07 INFO  AbstractContentModule:11 - Trying to get content of document with URI: ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
-2016-08-12 15:19:07 INFO  AbstractContentModule:17 - Successfully got content of document with URI: ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
-2016-08-12 15:19:07 INFO  TestClass:42 - <?xml version="1.0" encoding="UTF-8"?>
+2016-08-12 17:07:43 INFO  AbstractContentModule:9 - Trying to get content of document with URI: 4b0f7d15-4daa-4d2c-a9de-cb6af742027e.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:15 - Successfully got content of document with URI: 4b0f7d15-4daa-4d2c-a9de-cb6af742027e.xml
+2016-08-12 17:07:43 INFO  TestClass:46 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  AbstractContentModule:15 - Trying to get all document's URIs that contain 'Some Mother'
+2016-08-12 17:07:43 INFO  AbstractContentModule:25 - Successfully got all document's URIs that contain 'Some Mother'
+2016-08-12 17:07:43 INFO  TestClass:53 - f84b8ff4-868f-4a92-9d9e-cd7ad4bede60.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - f021bc80-268b-47b9-b57e-de3925edd625.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 3e3b9311-6974-4f04-b6c7-6a806d89158a.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 19612383-3ede-4585-8947-4b161ec28b48.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 3ef44bb1-e4d1-441d-a9d5-ea8256855170.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - f96ac46e-cdb3-4b4a-9443-bcaabc41c8de.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - fcbf89f7-b7e2-40ea-b974-6c5cf7a931af.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - ef9e4dbe-b347-4911-b1fc-d0cfe452c3b2.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - c8e89796-84f3-42db-9b33-698379eff554.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 5347823d-b567-4e5d-be5e-9f5697b36ae0.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 28aba8d6-6348-4207-ac97-945b64185f03.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - cc019205-7d81-42bf-a0b3-95fe34b1475f.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 8d9e7f9f-78e8-4005-80f2-5df2d5c9fd56.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 9194fefa-b4e6-4a49-bc70-5a33b6be3057.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 76bcdf38-fcc5-41e7-bd44-04861555b74e.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - bcbf5375-714f-4044-9543-a9469d8b79e2.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - ba2fbe1a-a80b-4fce-afae-9156c8b01b35.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 3b87fa5d-ab00-479d-8601-ba4fd4e3edec.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 15e31d46-9c91-4160-ad32-0d858e1763ff.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 971c58b2-69b3-48b6-98ee-d39ed6a1b042.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 8bceaa81-72fd-48c1-9695-92fbea6ae76b.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 8d924caa-09a9-4018-8690-dca60af65bf1.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 505d88e6-bfcf-444e-a4dd-f7264e6e7708.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 594312dc-19c2-4268-8695-add6263ea54c.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 346a8f77-3a35-4d1d-ac21-dc1fbedcdaaf.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 4a7c2ab3-d637-4b62-ab42-e339a8611c1a.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 4579d429-5627-4014-bd9b-dd5c1b93a232.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 7382724b-5454-426d-9697-012e7b172320.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 02e016c9-0c1a-4ea0-97da-53f61c736d89.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 6fe89878-880d-4626-b497-83f3cdc908c0.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 5688baac-85ef-4120-bb9a-954b20d47eae.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 776c2f72-1dcf-48fd-bc3d-d41362c2d5b1.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 04c55bef-5c59-4c04-b3e5-087415012540.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 823f9bee-cb2a-45a4-8777-89108661007b.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 619087ca-9fc0-4d34-99af-0ff7f5742a8d.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 9f0f6b0e-bd99-435e-9aaf-ad74d38b9c6b.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 4b0f7d15-4daa-4d2c-a9de-cb6af742027e.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 5fc322e4-a27e-4b45-ada6-a74128fcc43d.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - fbe29253-028e-47cc-86ae-6a8e87d792e7.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 96a46188-3eff-4871-9896-1e5c8faf8931.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 7657b142-f991-43f7-84cd-043ceae96551.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 331b8a00-dbda-43aa-acdb-f2d45e9a2f71.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 831417e4-7b51-4a4b-b3cc-d48a3c548d0e.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - e1047fcb-d9ec-4ee0-a40f-2c3b4ebc2b4f.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 62b702b6-d0f4-422e-92d4-eba6c748b608.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 5232fe21-bc1d-43a6-990d-cf98f47e5d1d.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 71534f2f-3b51-47b9-b679-f3e8f3af39be.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 0cfad155-47cd-46f3-acb0-907a535ff399.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 8d7c12bd-709c-4ad9-a6d3-5bd915749906.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 61da29b2-12de-4f55-b462-6a4c8e52e968.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - dad748f1-b522-47bd-b515-2254157a84d0.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 8eae6dbe-97b1-426c-b68f-f5f70aecfee2.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 190121d2-9e53-4b13-99c3-af82e493c2c2.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 0a3406d0-02e5-4b66-8966-9ea4e2f77db0.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 61a18450-f66a-4615-93d8-a8a5c303a2e6.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - fdad4005-a39c-47d1-8c5d-92f26f76504e.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 5586ea37-36e0-4fcf-9006-e1ace6d26470.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 7b3cf4d8-3c35-49cb-9492-8a9ef0fd7dcb.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 05a6affd-cc1e-48ba-91aa-2d8105633094.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 70e2e301-e1dd-4921-8357-f053f6d76f33.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 433a32c7-8286-4adc-a53d-2c2242fff5c6.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 74372aa7-397f-4cdb-8a65-db400047a2b8.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - cb871eed-ed09-4ccb-b908-121c994fbb0e.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 37957d51-22c1-435a-a132-58a459e2bd08.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - f8e974dc-e19b-4eba-8a2c-68bd41a2e2ef.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 64f10800-6dab-4d8e-85a9-0e5cb6e387b0.xml
+2016-08-12 17:07:43 INFO  TestClass:53 - 7651e40f-8ddd-4ae3-b5b7-12a672609169.xml
+2016-08-12 17:07:43 INFO  AbstractContentModule:32 - Trying to get all documents that contain 'Some Mother'
+2016-08-12 17:07:43 INFO  AbstractContentModule:42 - Successfully got all documents that contain 'Some Mother'
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>UnHuman</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>UnHuman</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>UnHuman</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>UnHuman</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>UnHuman</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>UnHuman</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>UnHuman</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>UnHuman</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>UnHuman</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>UnHuman</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>UnHuman</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>UnHuman</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
+2016-08-12 17:07:43 INFO  TestClass:61 - <?xml version="1.0" encoding="UTF-8"?>
 <Human>
     <Name>John</Name>
     <Surname>Doe</Surname>
