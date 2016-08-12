@@ -1,22 +1,18 @@
-package ru.hokan;
+package ru.hokan.modules;
 
 import com.marklogic.xcc.Content;
 import com.marklogic.xcc.ContentCreateOptions;
 import com.marklogic.xcc.ContentFactory;
-import com.marklogic.xcc.Session;
 import com.marklogic.xcc.exceptions.RequestException;
-import org.apache.log4j.Logger;
 
 import java.io.File;
 import java.util.UUID;
 
-public class InsertContentModule {
+public class InsertContentModule extends AbstractContentModule {
 
-    private static final Logger LOGGER = Logger.getLogger(InsertContentModule.class);
     private static final String XML_FILE_EXTENSION = ".xml";
 
     private ContentCreateOptions options;
-    private Session session;
 
     public String insertFile(File file) throws RequestException {
         String[] uris = insertFiles(new File[]{file});
@@ -42,7 +38,7 @@ public class InsertContentModule {
         }
 
         logInsertedContent("Trying to insert:", files, contents);
-        this.session.insertContent(contents);
+        getSession().insertContent(contents);
         logInsertedContent("Inserted:", files, contents);
     }
 
@@ -55,11 +51,7 @@ public class InsertContentModule {
             builder.append(contents[i].getUri());
             builder.append("\n");
         }
-        LOGGER.info(builder.toString());
-    }
-
-    public void setSession(Session session) {
-        this.session = session;
+        getLogger().info(builder.toString());
     }
 
     public void setOptions(ContentCreateOptions options) {

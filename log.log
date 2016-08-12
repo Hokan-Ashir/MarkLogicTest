@@ -1,0 +1,92 @@
+2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Trying to insert:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: d2654939-a323-4ff6-b4ef-5dcd1ff465bd.xml
+
+2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Inserted:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: d2654939-a323-4ff6-b4ef-5dcd1ff465bd.xml
+
+2016-08-12 15:19:07 INFO  AbstractContentModule:10 - Trying to delete document with URI: d2654939-a323-4ff6-b4ef-5dcd1ff465bd.xml
+2016-08-12 15:19:07 INFO  AbstractContentModule:15 - Deleted document with URI: d2654939-a323-4ff6-b4ef-5dcd1ff465bd.xml
+2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Trying to insert:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 5da1b84f-1693-4b45-8987-d03262f84b76.xml
+
+2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Inserted:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 5da1b84f-1693-4b45-8987-d03262f84b76.xml
+
+2016-08-12 15:19:07 INFO  AbstractContentModule:10 - Trying to update document with URI: 5da1b84f-1693-4b45-8987-d03262f84b76.xml with:
+<Human>
+    <Name>Jane</Name>
+</Human>
+2016-08-12 15:19:07 INFO  AbstractContentModule:15 - Updated document with URI: 5da1b84f-1693-4b45-8987-d03262f84b76.xml with
+<Human>
+    <Name>Jane</Name>
+</Human>
+2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Trying to insert:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml
+
+2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Inserted:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\jane_doe.xml with URI: 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml
+
+2016-08-12 15:19:07 INFO  AbstractContentModule:19 - Trying to update document with URI: 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml with: UnHuman for node Active
+2016-08-12 15:19:07 INFO  AbstractContentModule:24 - Updated document with URI: 7801f4ff-a9a1-4a4f-9ea8-ab0e743d7fb4.xml with: UnHuman for node Active
+2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Trying to insert:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
+
+2016-08-12 15:19:07 INFO  AbstractContentModule:54 - Inserted:
+File: C:\Users\Anton_Achkasov\IdeaProjects\MarkLogicTest\target\classes\examples\john_doe.xml with URI: ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
+
+2016-08-12 15:19:07 INFO  AbstractContentModule:11 - Trying to get content of document with URI: ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
+2016-08-12 15:19:07 INFO  AbstractContentModule:17 - Successfully got content of document with URI: ed23159c-f9b9-4b9a-afe4-9cf9468aece9.xml
+2016-08-12 15:19:07 INFO  TestClass:42 - <?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>

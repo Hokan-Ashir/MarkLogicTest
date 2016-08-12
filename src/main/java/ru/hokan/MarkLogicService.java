@@ -6,6 +6,10 @@ import com.marklogic.xcc.Session;
 import com.marklogic.xcc.exceptions.RequestException;
 import com.marklogic.xcc.exceptions.XccConfigException;
 import org.apache.log4j.Logger;
+import ru.hokan.modules.DeleteContentModule;
+import ru.hokan.modules.InsertContentModule;
+import ru.hokan.modules.ReadContentModule;
+import ru.hokan.modules.UpdateContentModule;
 
 import java.io.File;
 import java.net.URI;
@@ -26,10 +30,14 @@ public enum  MarkLogicService {
 
     private final InsertContentModule insertContentModule;
     private final DeleteContentModule deleteContentModule;
+    private final UpdateContentModule updateContentModule;
+    private final ReadContentModule readContentModule;
 
     MarkLogicService() {
         insertContentModule = new InsertContentModule();
         deleteContentModule = new DeleteContentModule();
+        updateContentModule = new UpdateContentModule();
+        readContentModule = new ReadContentModule();
     }
 
     private Session createSession() {
@@ -85,5 +93,41 @@ public enum  MarkLogicService {
                 LOGGER.error(e.getMessage(), e);
             }
         }
+    }
+
+    public void updateDocumentContent(String documentURI, String newDocumentContent) {
+        try (Session session = createSession()) {
+            updateContentModule.setSession(session);
+            try {
+                updateContentModule.updateDocumentContent(documentURI, newDocumentContent);
+            } catch (RequestException e) {
+                LOGGER.error(e.getMessage(), e);
+            }
+        }
+    }
+
+    public void updateDocumentNodeValue(String documentURI, String nodeName, String newNodeValue) {
+        try (Session session = createSession()) {
+            updateContentModule.setSession(session);
+            try {
+                updateContentModule.updateDocumentNodeValue(documentURI, nodeName, newNodeValue);
+            } catch (RequestException e) {
+                LOGGER.error(e.getMessage(), e);
+            }
+        }
+    }
+
+    public String getDocumentContent(String documentURI) {
+        String documentContent = "";
+        try (Session session = createSession()) {
+            readContentModule.setSession(session);
+            try {
+                documentContent = readContentModule.getDocumentContent(documentURI);
+            } catch (RequestException e) {
+                LOGGER.error(e.getMessage(), e);
+            }
+        }
+
+        return documentContent;
     }
 }
