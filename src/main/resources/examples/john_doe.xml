@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Gender>M</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>24</Age>
+    <Relation>Single</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Some brother</Brother>
+            <Brother>Some brother1</Brother>
+            <Brother>Some brother2</Brother>
+            <Brother>Some brother3</Brother>
+            <Brother>Some another brother</Brother>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Sisters>
+            <Sister>Kinda just like Snow White with 7 gnomes</Sister>
+        </Sisters>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1877</YearIn>
+            <YearOut>1877</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK</Name>
+            <YearIn>2712</YearIn>
+            <YearOut>2811</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>

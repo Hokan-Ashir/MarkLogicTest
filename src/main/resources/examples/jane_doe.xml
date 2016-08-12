@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Human>
+    <Name>Jane</Name>
+    <Surname>Doe</Surname>
+    <Gender>F</Gender>
+    <BirthDate>01-01-1988</BirthDate>
+    <DeathDate>01-02-9188</DeathDate>
+    <Age>242</Age>
+    <Relation>Married</Relation>
+    <Family>
+        <Mother>Some Mother</Mother>
+        <Father>Some Father</Father>
+        <Brothers>
+            <Brother>Hell, another one brother!</Brother>
+            <Brother>That's too many brother out there</Brother>
+        </Brothers>
+        <Husbands>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-23911</MarriegeDate>
+                <Active>true</Active>
+            </Husband>
+            <Husband>
+                <Name>Not john doe</Name>
+                <MarriegeDate>02-02-2911</MarriegeDate>
+                <DivorceDate>10-09-2911</DivorceDate>
+                <Active>false</Active>
+            </Husband>
+        </Husbands>
+    </Family>
+
+    <Educations>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1077</YearIn>
+            <YearOut>1177</YearOut>
+        </Education>
+        <Education type="school">
+            <Name>Some random name</Name>
+            <YearIn>1277</YearIn>
+            <YearOut>1377</YearOut>
+        </Education>
+        <Education type="college">
+            <Name>Some random name</Name>
+            <YearIn>1377</YearIn>
+            <YearOut>1477</YearOut>
+        </Education>
+        <Education tpye="university">
+            <Name>UFHSKK_JMH</Name>
+            <YearIn>2212</YearIn>
+            <YearOut>2311</YearOut>
+        </Education>
+    </Educations>
+
+    <AdditionalInfo>
+        <Content>
+            <Line>Some line</Line>
+            <Line>Some line1</Line>
+            <Line>Some line4</Line>
+            <Line>Some line3</Line>
+            <Line>Some line2</Line>
+        </Content>
+        <Content>
+            <Line>lalala</Line>
+            <Line>pew pew</Line>
+            <Line>le test</Line>
+        </Content>
+    </AdditionalInfo>
+</Human>
