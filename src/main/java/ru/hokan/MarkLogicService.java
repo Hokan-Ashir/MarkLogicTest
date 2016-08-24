@@ -20,12 +20,11 @@ public enum  MarkLogicService {
 
     private static final Logger LOGGER = Logger.getLogger(MarkLogicService.class);
 
-    private static final String USER_NAME = "admin";
-    private static final String PASSWORD = "admin";
-    private static final String HOST_IP = "10.16.9.49";
-    private static final String PORT = "9999";
-    private static final String DATABASE_NAME = "ML-TEST";
-    private static final String MARK_LOGIC_XDBC_SERVER = "xcc://" + USER_NAME + ":" + PASSWORD + "@" + HOST_IP + ":" + PORT + "/" + DATABASE_NAME;
+    private static final String DEFAULT_USER_NAME = "admin";
+    private static final String DEFAULT_PASSWORD = "admin";
+    private static final String DEFAULT_HOST_IP = "10.16.9.49";
+    private static final String DEFAULT_PORT = "9999";
+    private static final String DEFAULT_DATABASE_NAME = "ML-TEST";
 
     private final InsertContentModule insertContentModule;
     private final DeleteContentModule deleteContentModule;
@@ -33,7 +32,19 @@ public enum  MarkLogicService {
     private final ReadContentModule readContentModule;
     private final SearchContentModule searchContentModule;
 
+    private String hostIp;
+    private String port;
+    private String databaseName;
+    private String userName;
+    private String password;
+
     MarkLogicService() {
+        this.hostIp = DEFAULT_HOST_IP;
+        this.port = DEFAULT_PORT;
+        this.databaseName = DEFAULT_DATABASE_NAME;
+        this.userName = DEFAULT_USER_NAME;
+        this.password = DEFAULT_PASSWORD;
+
         insertContentModule = new InsertContentModule();
         deleteContentModule = new DeleteContentModule();
         updateContentModule = new UpdateContentModule();
@@ -44,7 +55,8 @@ public enum  MarkLogicService {
     private Session createSession() {
         URI uri;
         try {
-            uri = new URI(MARK_LOGIC_XDBC_SERVER);
+            String connectionString = "xcc://" + userName + ":" + password + "@" + hostIp + ":" + port + "/" + databaseName;
+            uri = new URI(connectionString);
         } catch (URISyntaxException e) {
             LOGGER.error(e.getMessage(), e);
             return null;
@@ -158,5 +170,25 @@ public enum  MarkLogicService {
         }
 
         return documentsContainingValue;
+    }
+
+    public void setHostIp(String hostIp) {
+        this.hostIp = hostIp;
+    }
+
+    public void setPort(String port) {
+        this.port = port;
+    }
+
+    public void setDatabaseName(String databaseName) {
+        this.databaseName = databaseName;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
     }
 }
